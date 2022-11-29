@@ -10,7 +10,7 @@
 
 * 2021 ICPC seoul regional team iota24 11th 장려상
 
-* 현대모비스 알고리즘 경진 대회 20th 우수상
+* 2022 현대모비스 알고리즘 경진 대회 20th 우수상
 
 * 2022 ICPC seoul regional team undergoose 11th 장려상
 
